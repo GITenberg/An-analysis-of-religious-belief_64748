@@ -1,11 +1,16 @@
 _repo: An-analysis-of-religious-belief_64748
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64748-h/images/cover.jpg
 creator:
   author:
     agent_name: Amberley, John Russell
     gutenberg_agent_id: '53034'
     url: http://www.gutenberg.org/2009/agents/53034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64748#An-analysis-of-religious-belief
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
